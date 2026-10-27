@@ -1,0 +1,9 @@
+MR. MILOCH — Versão 14.1 (revisão técnica)
+
+Abra index.html no navegador.
+
+Ajustes: indicador de horário atualizado a cada minuto e ao voltar à aba; prioridade de carregamento da primeira foto do feed; dados estruturados básicos para mecanismos de busca.
+
+Design, textos, links e 18 fotografias originais preservados. Sem vídeo.
+
+Antes de publicar: confirmar horários, endereço, telefone e funcionamento em navegadores reais.
